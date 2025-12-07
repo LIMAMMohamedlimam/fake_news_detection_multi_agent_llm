@@ -1,3 +1,5 @@
 .env
 data/
 venvFNDAgent/
+__pycache__/
+.ipynb_checkpoints/
